@@ -5,6 +5,7 @@ A Tag Interface is an Interface with no methods and no fields.
 
 ```java
 public interface Flyable {
+	void fly();
 }
 ```
 
